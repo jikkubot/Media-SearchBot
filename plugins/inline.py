@@ -61,6 +61,7 @@ def get_reply_markup(username):
     buttons = [[
         InlineKeyboardButton('Search again', switch_inline_query_current_chat=''),
         InlineKeyboardButton('Request Movie', url=url),
+        InlineKeyboardButton('Share bot', url=ninte url ),
     ]]
     return InlineKeyboardMarkup(buttons)
 
