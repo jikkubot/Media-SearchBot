@@ -33,6 +33,5 @@ I was made by @NickxFury & @Sunisk.
 A Bot From Movie Club Family.
 """
 
-SHARE_BUTTON_TEXT = 'Hai Friend ❤️ Today i just found out an intresting and Movie/Series Finder Bot With lots of Newly & Old Collections🥰
-Bot Link {username}'
+SHARE_BUTTON_TEXT = 'Hai Friend ❤️ Today i just found out an intresting bot 🥰 check it out Bot Link {username}'
 
