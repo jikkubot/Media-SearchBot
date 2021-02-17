@@ -28,9 +28,11 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 START_MSG = """
 **Hi,Friend**
 
-I am a Movie/Series Inline File Finder.I have a Vast Collection of [Movies](t.me/MOVIECLUB_CHAT) & [Series](t.me/Tvserieshome).Fell Free To Checkout Me 🥰.
+I am a Movie/Series Inline File Finder.I have a Vast Collection of Movies & Series.Fell Free To Checkout Me 🥰.
 I was made by @NickxFury & @Sunisk.
-A Bot Form [Movie Club Family](t.me/MOVIECLUB_LINKS).
+A Bot From Movie Club Family.
 """
 
-SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
+SHARE_BUTTON_TEXT = 'Hai Friend ❤️,
+Today i just found out an intresting and Movie/Series Finder Bot With lots of Newly & Old Collections🥰. 
+Bot Link : {username}'
