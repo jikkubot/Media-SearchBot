@@ -28,8 +28,12 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 START_MSG = """
 **Hi,Friend**
 
-I am a Movie/Series Inline File Finder.I have a Vast Collection of Movies & Series.Fell Free To Checkout Me 🥰.
+I am a Movie/Series Inline File Finder.
+
+I have a Vast Collection of Movies & Series.Fell Free To Checkout Me 🥰.
+
 I was made by @NickxFury & @Sunisk.
+
 A Bot From Movie Club Family.
 """
 
